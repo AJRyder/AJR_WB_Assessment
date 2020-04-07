@@ -1,0 +1,164 @@
+[ 
+    {
+        "id": 1, 
+        "title": "Batman", 
+        "releaseYear": 1989, 
+        "genre": ["action", "adventure", "crime"],
+        "rating": "PG-13",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Batman_%281989%29_theatrical_poster.jpg/220px-Batman_%281989%29_theatrical_poster.jpg"
+    }, 
+    {
+        "id": 2, 
+        "title": "Batman Returns", 
+        "releaseYear": 1992, 
+        "genre": ["action", "drama", "crime"],
+        "rating": "PG-13",
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/83/Batman_returns_poster2.jpg"
+    },
+    {
+        "id": 3, 
+        "title": "Batman Forever", 
+        "releaseYear": 1995, 
+        "genre": ["action", "crime"],
+        "rating": "PG-13",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Batman_Forever_poster.png/220px-Batman_Forever_poster.png"
+    }, 
+    {
+        "id": 4, 
+        "title": "Batman & Robin", 
+        "releaseYear": 1997, 
+        "genre": ["action", "adventure", "crime"],
+        "rating": "PG-13",
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/37/Batman_%26_Robin_poster.jpg"
+    },
+    {
+        "id": 5, 
+        "title": "Batman Begins",
+        "releaseYear": 2005, 
+        "genre": ["action", "crime", "drama", "thriller"],
+        "rating": "PG-13", 
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/af/Batman_Begins_Poster.jpg/220px-Batman_Begins_Poster.jpg"
+    }, 
+    {
+        "id": 6, 
+        "title": "The Dark Knight",
+        "releaseYear": 2008, 
+        "genre": ["action", "crime", "drama", "thriller"],
+        "rating": "PG-13", 
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/8a/Dark_Knight.jpg"
+    }, 
+    {
+        "id": 7, 
+        "title": "The Dark Knight Rises",
+        "releaseYear": 2012, 
+        "genre": ["action", "crime"],
+        "rating": "PG-13", 
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/83/Dark_knight_rises_poster.jpg"
+    },
+    {
+        "id": 8, 
+        "title": "Batman v Superman: Dawn of Justice",
+        "releaseYear": 2016, 
+        "genre": ["action", "drama"],
+        "rating": "PG-13",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Batman_v_Superman_poster.jpg/220px-Batman_v_Superman_poster.jpg"
+    },
+    {
+        "id": 9, 
+        "title": "Suicide Squad", 
+        "releaseYear": 2016, 
+        "genre": ["action", "crime", "comedy"],
+        "rating": "PG-13",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Suicide_Squad_%28film%29_Poster.png/220px-Suicide_Squad_%28film%29_Poster.png"
+    },
+    {
+        "id": 10, 
+        "title": "Justice League", 
+        "releaseYear": 2017, 
+        "genre": ["action", "adventure"],
+        "rating": "PG-13", 
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/31/Justice_League_film_poster.jpg"
+    },
+    {
+        "id": 11, 
+        "title": "Joker", 
+        "releaseYear": 2019, 
+        "genre": ["drama", "crime", "thriller"], 
+        "rating": "R", 
+        "image": "https://upload.wikimedia.org/wikipedia/en/e/e1/Joker_%282019_film%29_poster.jpg"
+    }, 
+    {
+        "id": 12, 
+        "title": "Batman: Mask of the Phantasm", 
+        "releaseYear": 1993, 
+        "genre": ["drama", "crime", "animated", "kids", "mystery"], 
+        "rating": "PG",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Batman_mask_of_the_phantasm_poster.jpg/220px-Batman_mask_of_the_phantasm_poster.jpg"
+    }, 
+    {
+        "id": 13, 
+        "title": "Batman and Mr. Freeze: SubZero", 
+        "releaseYear": 1998, 
+        "genre": ["drama", "crime", "animated", "kids"], 
+        "rating": "UR",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Batman_%26_Mr._Freeze_SubZero.jpg/220px-Batman_%26_Mr._Freeze_SubZero.jpg"
+    }, 
+    {
+        "id": 14, 
+        "title": "Batman Beyond: Return of the Joker", 
+        "releaseYear": 2000, 
+        "genre": ["drama", "crime", "sci-fi", "animated"], 
+        "rating": "PG-13",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Batman_Beyond_-_Return_of_the_Joker_poster.jpg/220px-Batman_Beyond_-_Return_of_the_Joker_poster.jpg"
+    }, 
+    {
+        "id": 15, 
+        "title": "Batman: Mystery of the Batwoman", 
+        "releaseYear": 2003, 
+        "genre": ["action", "drama", "crime", "thriller", "mystery"],
+        "rating": "PG", 
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Batman-Mystery_of_the_Batwoman_poster.jpg/220px-Batman-Mystery_of_the_Batwoman_poster.jpg"
+    },
+    {
+        "id": 16, 
+        "title": "Batman: Gotham Knight", 
+        "releaseYear": 2008, 
+        "genre": ["action", "crime", "thriller", "animated"], 
+        "rating": "PG-13", 
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Batman_Gotham_Knight.jpg/220px-Batman_Gotham_Knight.jpg"
+    }, 
+    {
+        "id": 17, 
+        "title": "Batman: The Killing Joke", 
+        "releaseYear": 2016, 
+        "genre": ["action", "suspense", "crime", "thriller", "animated"],
+        "rating": "R", 
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Batman-The_Killing_Joke_%28film%29.jpg/220px-Batman-The_Killing_Joke_%28film%29.jpg"
+    }, 
+    {
+        "id": 18, 
+        "title": "The Dark Knight Returns - Part 1", 
+        "releaseYear": 2012, 
+        "genre": ["action", "crime", "sci-fi", "drama"],
+        "rating": "PG-13", 
+        "image": "https://m.media-amazon.com/images/M/MV5BMzIxMDkxNDM2M15BMl5BanBnXkFtZTcwMDA5ODY1OQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    }, 
+    {
+        "id": 19, 
+        "title": "The Dark Knight Returns - Part 2", 
+        "releaseYear": 2013, 
+        "genre": ["action", "crime", "sci-fi", "drama"],
+        "rating": "PG-13", 
+        "image": "https://m.media-amazon.com/images/M/MV5BYTEzMmE0ZDYtYWNmYi00ZWM4LWJjOTUtYTE0ZmQyYWM3ZjA0XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR9,0,182,268_AL_.jpg"
+
+    }, 
+    {
+        "id": 20, 
+        "title": "The Lego Batman Movie", 
+        "releaseYear": 2017, 
+        "genre": ["action", "comedy", "animated"],
+        "rating": "PG", 
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/61/The_Lego_Batman_Movie_PromotionalPoster.jpg"
+    }
+]
+
