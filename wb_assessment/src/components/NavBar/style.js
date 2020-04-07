@@ -31,13 +31,14 @@ export const MainDiv = styled.div`
 `
 export const NavContainer = styled.div`
     display: flex; 
-    flex: flex-end; 
-    margin-right: 100px; 
+    flex: right;
+    justify-content: flex-end; 
+    flex-direction: row; 
+    margin-right: 0px; 
     margin-bottom: 10px;
     align-self: flex-end;
     top: 60px; 
     align-items: center;  
-    justify-content: center; 
     text-decoration: none;
     @media (max-width: 778px){
         display: flex; 

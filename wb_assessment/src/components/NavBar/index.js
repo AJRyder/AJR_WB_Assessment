@@ -16,7 +16,7 @@ const NavBar = () => {
             <H1>SEARCH <br/> RESULTS</H1>
             <NavContainer>
 
-                <NavLink to={ROUTES.ALL} style={{display:"flex", 'text-decoration': 'none', "color": "gray"}}> { "All" } </NavLink>
+                <NavLink to={ROUTES.ALL} style={{display:"flex", 'text-decoration': 'none', "color": "gray", marginRight: "10px"}}> { "All" } </NavLink>
 
                 <NavLink to={ROUTES.MOVIES} style={{display:"flex", 'text-decoration': 'none', "color": "gray"}}> { "Movies" }<MovieIcon style={{marginLeft: "10px"}}/>  </NavLink>
 
