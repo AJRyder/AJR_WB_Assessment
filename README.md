@@ -5,7 +5,7 @@
 - Git clone or download the repository
 - traverse into the directory wb_assessment
 - From your IDE of choice, spin up the server (nodemon server.js) 
-- And NPM Start 
+- Yarn Start or NPM Start to build the react front-end 
 
 # Technologies Used 
 - Javascript ECMA6
