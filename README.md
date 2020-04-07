@@ -4,6 +4,7 @@
 # HOW TO RUN THE APPLICATION? 
 - Git clone or download the repository
 - traverse into the directory wb_assessment
+- From your terminal/CLI, run NPM install or NPM I to install Node dependencies and react-start-scripts 
 - From your IDE of choice, spin up the server (nodemon server.js) 
 - Yarn Start or NPM Start to build the react front-end 
 
